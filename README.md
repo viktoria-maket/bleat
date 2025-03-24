@@ -1,37 +1,4 @@
-# bleat
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мой текстовый сайт</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        .content {
-            background-color: #f9f9f9;
-            padding: 20px;
-            border-radius: 5px;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Добро пожаловать на мой сайт</h1>
-    
-    <div class="content">
-        <p> Дорогой друг, Рё, предлагаю в силу наших сложившихся добрых отношений
+# bleat  Дорогой друг, Рё, предлагаю в силу наших сложившихся добрых отношений
  между Россией и Японией провести встречу без галстуков. И таким образом
  появилась новая дипломатический новая в дипломатическом этикете, правда
  называется дипломатический протокол, появилась встреча без галстуков.
@@ -4485,14 +4452,5 @@
  лекцию мы слушаем и в какой, так сказать, стадии мы, понимание находимся.
  Благодарю вас за внимание, на связи.
  [18:14.94 - 18:17.29] SPEAKER: 1
- У вас тоже с наступающим праздником</p>
-        
-        <h2>О нас</h2>
-        <p>Текст о вашей компании или проекте.</p>
-        
-        <h2>Контакты</h2>
-        <p>Email: example@email.com</p>
-        <p>Телефон: +7 (123) 456-78-90</p>
-    </div>
-</body>
-</html>
+ У вас тоже с наступающим праздником
+
